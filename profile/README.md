@@ -1,12 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<img src="./assets/logo.png" width="100" alt="Ratival">
 
-**Here are some ideas to get you started:**
+# Ratival
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### ✨ Every Idea Matters.
+
+Building modern digital products and scalable software solutions. <br>
+💡 Product Development • 🌐 Engineering • ☁️ Infrastructure • ⚙️ DevOps
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,bun,postgres,docker,cloudflare" />
+
+*Turning ideas into impactful experiences through thoughtful engineering and innovative technology.*
+
+</div>
+
+## 🚀 What We Do
+
+- Build digital products from idea to production.
+- Develop modern web and backend applications.
+- Design scalable cloud infrastructure.
+- Automate delivery and operations.
+
+---
+
+<div align="center">
+
+### 🌱 Building technology that creates lasting value.
+
+</div>

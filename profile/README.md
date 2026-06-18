@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="100" alt="Ratival">
+<img src="./assets/ratival-logo.webp" width="100" alt="Ratival">
 
 # Ratival
 
